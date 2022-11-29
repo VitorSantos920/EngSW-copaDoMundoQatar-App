@@ -1,10 +1,6 @@
-<div align="center">
-    <img src="./emConstrucao.jpg">
-</div>
-
 # Aplicativo da Copa do Mundo do Qatar 2022 ⚽
 
-Desenvolvimento de um aplicativo para acompanhamento do Campeonato Mundial de Futebol: a Copa do Mundo 2022, no Qatar, para obtenção de nota e grau técnico, promovido pelo Prof° Anderson Luiz Barbosa, na matéria de Engenharia de Software.
+Desenvolvimento e Modelagem, utilizando Metodologia Ágil e ferramentas de gestão de processos de desenvolvimento e criação de Software, de um aplicativo para acompanhamento do Campeonato Mundial de Futebol: a Copa do Mundo 2022, no Qatar, para obtenção de nota e grau técnico, promovido pelo Prof° Anderson Luiz Barbosa, na matéria de Engenharia de Software.
 
 Requisitos Funcionais da Aplicação:
 
